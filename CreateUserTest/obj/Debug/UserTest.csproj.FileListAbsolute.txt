@@ -1,0 +1,17 @@
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\obj\Debug\UserTest.csproj.CoreCompileInputs.cache
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\UserTest.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\UserTest.pdb
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\WebDriver.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\WebDriver.Support.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\WebDriver.xml
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\bin\Debug\WebDriver.Support.xml
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\obj\Debug\UserTest.csproj.CopyComplete
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\obj\Debug\UserTest.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\CreateUserTest\obj\Debug\UserTest.pdb

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<TestApplication.Models.UserModel>
+
+@{
+    ViewBag.Title = "Users";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List of Users</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateEditUser")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MobileNo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MobileNo)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "CreateEditUser", new { id = item.Id }) |
+                @Html.ActionLink("Details", "DetailUser", new { id = item.Id, @class = item.Id }) |
+                @Html.ActionLink("Delete", "DeleteUser", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+Total Users: <p id="lblTotal">@Model.Count()</p>

@@ -1,0 +1,13 @@
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\bin\Debug\TestDB.mdf
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\bin\Debug\TestDB_log.ldf
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\bin\Debug\Data.dll.config
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\bin\Debug\Data.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\bin\Debug\Data.pdb
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\bin\Debug\EntityFramework.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\bin\Debug\EntityFramework.xml
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\obj\Debug\Data.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Data\obj\Debug\Data.pdb

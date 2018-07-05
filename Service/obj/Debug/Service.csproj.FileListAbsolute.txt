@@ -1,0 +1,14 @@
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\bin\Debug\TestDB.mdf
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\bin\Debug\TestDB_log.ldf
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\bin\Debug\Service.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\bin\Debug\Service.pdb
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\bin\Debug\Data.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\bin\Debug\EntityFramework.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\bin\Debug\Data.pdb
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\bin\Debug\Data.dll.config
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\bin\Debug\EntityFramework.xml
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\obj\Debug\Service.dll
+C:\Users\SHRINA\Downloads\MVCWithDI\MVCWithDI\Service\obj\Debug\Service.pdb
